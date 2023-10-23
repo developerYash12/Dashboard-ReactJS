@@ -12,6 +12,7 @@
 .User-box {
   margin: 24px 20px;
   padding: 16px 20px;
+  margin-top: 90%;
   display: flex;
   border-radius: 12px;
   -webkit-box-align: center;
